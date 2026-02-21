@@ -1,0 +1,56 @@
+[
+  {
+    "City": "Hyderabad",
+    "Min Temp (°C)": 19.0,
+    "Max Temp (°C)": 33.0,
+    "Current Condition": "Sunny",
+    "Humidity (%)": 33,
+    "Wind Speed (km/h)": 15.0,
+    "Fetched At": "2026-02-21 14:34:58"
+  },
+  {
+    "City": "Pune",
+    "Min Temp (°C)": 21.0,
+    "Max Temp (°C)": 34.0,
+    "Current Condition": "Sunny",
+    "Humidity (%)": 22,
+    "Wind Speed (km/h)": 6.0,
+    "Fetched At": "2026-02-21 14:35:05"
+  },
+  {
+    "City": "Gurgaon",
+    "Min Temp (°C)": 16.0,
+    "Max Temp (°C)": 30.0,
+    "Current Condition": "Haze",
+    "Humidity (%)": 47,
+    "Wind Speed (km/h)": 13.0,
+    "Fetched At": "2026-02-21 14:35:17"
+  },
+  {
+    "City": "Ahmedabad",
+    "Min Temp (°C)": 22.0,
+    "Max Temp (°C)": 37.0,
+    "Current Condition": "Smoke",
+    "Humidity (%)": 38,
+    "Wind Speed (km/h)": 8.0,
+    "Fetched At": "2026-02-21 14:36:06"
+  },
+  {
+    "City": "Jaipur",
+    "Min Temp (°C)": 16.0,
+    "Max Temp (°C)": 29.0,
+    "Current Condition": "Haze",
+    "Humidity (%)": 42,
+    "Wind Speed (km/h)": 12.0,
+    "Fetched At": "2026-02-21 14:36:21"
+  },
+  {
+    "City": "Shimla",
+    "Min Temp (°C)": 11.0,
+    "Max Temp (°C)": 18.0,
+    "Current Condition": "Sunny",
+    "Humidity (%)": 23,
+    "Wind Speed (km/h)": 11.0,
+    "Fetched At": "2026-02-21 14:36:44"
+  }
+]
